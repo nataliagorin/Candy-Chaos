@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T21:52:37.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="qvLxQOcQHH7sKGcJ2fBh" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T22:03:21.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="wWdosf6J4MyEpZWWHst3" version="24.3.1" type="github">
   <diagram name="Page-1" id="awMXY44mZ77rWvOCfHt4">
     <mxGraphModel dx="996" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#fff5f5" math="0" shadow="0">
       <root>
@@ -74,11 +74,17 @@
             <mxPoint x="600" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dz0UnZ8IAj8Qqn_Fni2c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;endArrow=none;endFill=0;" edge="1" parent="1" source="dz0UnZ8IAj8Qqn_Fni2c-26" target="dz0UnZ8IAj8Qqn_Fni2c-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dz0UnZ8IAj8Qqn_Fni2c-26" value="&lt;b&gt;Arduino UNO&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillStyle=hachure;fillColor=#FF9999;sketch=1;curveFitting=1;jiggle=2;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dz0UnZ8IAj8Qqn_Fni2c-28" value="&lt;b&gt;Servomotor&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=-1;hachureGap=8;fillStyle=hachure;fillColor=#dae1da;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz0UnZ8IAj8Qqn_Fni2c-33" value="&lt;b&gt;Buzzer&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=-1;hachureGap=8;fillStyle=hachure;fillColor=#CCCCCC;sketch=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
